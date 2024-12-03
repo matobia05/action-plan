@@ -1,6 +1,6 @@
 # 6-Month Action Plan for Study Buddy Project
 
-This action plan outlines how I will make progress on the Study Buddy app over the next six months, starting after finals. Since I’m new to Swift, Xcode, and app development, I’ll focus on learning the basics while slowly building features. Each three-week period has goals, tasks, and resources to help me stay on track.
+This action plan outlines how I will make progress on the Study Buddy app over the next six months. I’ll focus on learning the basics while slowly building features. Each month period has goals, tasks, and resources to help me stay on track.
 
 ---
 
@@ -113,4 +113,3 @@ This action plan outlines how I will make progress on the Study Buddy app over t
 
 ---
 
-This plan is designed to help me learn at a steady pace while building something meaningful. I’ll focus on improving my skills and getting comfortable with Swift and app development along the way.
