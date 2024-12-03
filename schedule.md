@@ -4,7 +4,7 @@ This action plan outlines how I will make progress on the Study Buddy app over t
 
 ---
 
-## **December 16 – January 3: Learn the Basics**
+## **January: Learn the Basics**
 
 ### **Goal:**
 - **Understand Swift and Xcode:** I’ll spend more time learning the basics of Swift programming and getting comfortable with Xcode.  
@@ -21,7 +21,7 @@ This action plan outlines how I will make progress on the Study Buddy app over t
 
 ---
 
-## **January 4 – January 24: Build Basic Screens**
+## **February: Build Basic Screens**
 
 ### **Goal:**
 - **Create the app’s main screens:** Focus on building the basic Home, Profile, Search, and Messages screens.  
@@ -40,7 +40,7 @@ This action plan outlines how I will make progress on the Study Buddy app over t
 
 ---
 
-## **January 25 – February 14: Start the Matching Feature**
+## **March: Start the Matching Feature**
 
 ### **Goal:**
 - **Work on the matching system:** Build a way to match users based on their preferences.  
@@ -57,7 +57,7 @@ This action plan outlines how I will make progress on the Study Buddy app over t
 
 ---
 
-## **February 15 – March 6: Add Messaging and Scheduling**
+## **April: Add Messaging and Scheduling**
 
 ### **Goal:**
 - **Make a messaging system:** Add a way for users to chat with their study partners.  
@@ -76,7 +76,7 @@ This action plan outlines how I will make progress on the Study Buddy app over t
 
 ---
 
-## **March 7 – March 27: Test and Get Feedback**
+## **May: Test and Get Feedback**
 
 ### **Goal:**
 - **Test all features:** Make sure the app works well and doesn’t have big bugs.  
@@ -95,7 +95,7 @@ This action plan outlines how I will make progress on the Study Buddy app over t
 
 ---
 
-## **March 28 – April 17: Polish and Demo**
+## **June: Polish and Demo**
 
 ### **Goal:**
 - **Make the app presentable:** Fix any small bugs and finalize the design.  
