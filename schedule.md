@@ -103,13 +103,7 @@ This action plan outlines how I will make progress on the Study Buddy app over t
 
 ### **Tasks:**
 1. Fix any remaining bugs and make small design updates.  
-2. Record a video demo or prepare slides to explain how the app works.  
 3. Write a simple roadmap for features to add later.  
-4. Present the app to my classmates or instructor.  
+4. Present the app to friends or family.  
 
-### **Extra Resources:**
-- [How to Record a Demo Video](https://www.techsmith.com/blog/how-to-make-a-demo-video/)  
-- [Beginner Roadmap Example](https://medium.com/swlh/roadmaps-for-dummies-728303e1f8f1)  
-
----
 
