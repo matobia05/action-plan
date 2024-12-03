@@ -91,7 +91,7 @@ This action plan outlines how I will make progress on the Study Buddy app over t
 
 ### **Extra Resources:**
 - [TestFlight Guide](https://developer.apple.com/testflight/)  
-- [Beginner Debugging Tips](https://www.freecodecamp.org/news/how-to-debug-your-code/)  
+- [Beginner Debugging Tips](https://stackoverflow.com/questions/60601995/how-to-debug-in-xcode)  
 
 ---
 
