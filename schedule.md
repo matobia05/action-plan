@@ -1,121 +1,116 @@
 # 6-Month Action Plan for Study Buddy Project
 
-This action plan outlines steps to make meaningful progress on the Study Buddy project over the next six months, beginning after finals on December 13. Each three-week period includes a defined goal, a set of tasks, and extra resources to guide the process.
+This action plan outlines how I will make progress on the Study Buddy app over the next six months, starting after finals. Since I’m new to Swift, Xcode, and app development, I’ll focus on learning the basics while slowly building features. Each three-week period has goals, tasks, and resources to help me stay on track.
 
 ---
 
-## **December 13 – January 3: Research and Ideation**
+## **December 16 – January 3: Learn the Basics**
 
 ### **Goal:**
-- **Understand user needs and refine app features:** Research similar apps to identify key features and pain points. Document findings and finalize the core functionality of Study Buddy.
-- **Learn Swift basics:** Gain foundational knowledge of Swift programming to begin the coding phase in subsequent months.
-- **Set up the development environment:** Install Xcode and create a sample project to test the setup.
+- **Understand Swift and Xcode:** I’ll spend more time learning the basics of Swift programming and getting comfortable with Xcode.  
+- **Research other apps:** Look at similar study apps to figure out what features are useful and what I can improve.  
+- **Start planning the app design:** Create a simple layout of how the app might look and work.
 
-### **Tasks:**
-1. Research and list features of 3–5 competitor apps, noting what works well and what doesn’t.
-2. Sketch low-fidelity wireframes to finalize the app’s design and navigation flow.
-3. Complete an introductory Swift tutorial to learn syntax and basic concepts.
-4. Install Xcode and create a simple app to verify the development environment is ready.
+### **Tasks:**  
+1. Research 3–4 study apps and write down what features they have.  
+2. Sketch a basic wireframe for the app using pencil and paper or software like Figma.  
 
 ### **Extra Resources:**
-- [Swift Playgrounds: Learn Swift](https://apps.apple.com/us/app/swift-playgrounds/id908519492)
-- [Apple's Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/)
+- [Swift Playgrounds App](https://apps.apple.com/us/app/swift-playgrounds/id908519492)  
+- [Apple Xcode Beginner Guide](https://developer.apple.com/xcode/)  
 
 ---
 
-## **January 4 – January 24: Build Basic UI and Navigation**
+## **January 4 – January 24: Build Basic Screens**
 
 ### **Goal:**
-- **Create a working prototype:** Build basic UI components and implement navigation between screens based on finalized wireframes.
-- **Develop user authentication:** Integrate a simple login and registration system to simulate user account functionality.
-- **Improve Swift proficiency:** Focus on advanced Swift topics like closures and structs.
+- **Create the app’s main screens:** Focus on building the basic Home, Profile, Search, and Messages screens.  
+- **Set up navigation:** Learn how to move between screens in the app.  
+- **Keep learning Swift:** Practice more complex topics like lists and buttons.  
 
 ### **Tasks:**
-1. Design and implement the main screens (Home, Profile, Search, and Messages) with basic navigation.
-2. Create and test a basic user authentication flow using Firebase Authentication.
-3. Enhance wireframes with higher fidelity to better align with implementation.
-4. Practice creating reusable UI components in SwiftUI.
+1. Build simple versions of the main screens using SwiftUI.  
+2. Add navigation between screens, like tapping a button to move to the next page.  
+3. Watch tutorials about making apps with SwiftUI.  
+4. Update the wireframes to make them more detailed as I get ideas.  
 
 ### **Extra Resources:**
-- [Firebase Authentication Guide](https://firebase.google.com/docs/auth)
-- [SwiftUI Tutorials by Apple](https://developer.apple.com/tutorials/swiftui)
+- [SwiftUI Basics Tutorial](https://developer.apple.com/tutorials/swiftui)  
+- [Beginner SwiftUI Videos on YouTube](https://www.youtube.com/results?search_query=swiftui+beginner+tutorial)  
 
 ---
 
-## **January 25 – February 14: Build Core Functionality**
+## **January 25 – February 14: Start the Matching Feature**
 
 ### **Goal:**
-- **Implement study partner matching:** Develop an algorithm that matches users based on input preferences like schedule, study style, and courses.
-- **Integrate database functionality:** Use Firebase Firestore to store and retrieve user profiles and preferences.
-- **Test basic matching functionality:** Ensure the matching feature works seamlessly by debugging and gathering feedback.
+- **Work on the matching system:** Build a way to match users based on their preferences.  
+- **Learn how to save data:** Use Firebase to save user information like preferences and schedules.  
+- **Test the matching system:** Make sure it works with sample data.  
 
 ### **Tasks:**
-1. Create a user profile setup screen to collect data on preferences and schedule.
-2. Implement Firestore integration for storing user profiles.
-3. Develop a basic matching algorithm and test it with sample data.
-4. Debug any issues with the matching flow and gather initial feedback.
+1. Create a screen where users can enter their study preferences.  
+2. Set up Firebase to save and load user data.  
 
 ### **Extra Resources:**
-- [Firebase Firestore Documentation](https://firebase.google.com/docs/firestore)
-- [Algorithm Design for Beginners](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)
+- [Firebase Getting Started Guide](https://firebase.google.com/docs)  
+- [Simple Algorithms for Beginners](https://www.khanacademy.org/computing/computer-science/algorithms)  
 
 ---
 
-## **February 15 – March 6: Messaging and Scheduling Features**
+## **February 15 – March 6: Add Messaging and Scheduling**
 
 ### **Goal:**
-- **Develop messaging functionality:** Add real-time messaging between matched study partners using Firebase.
-- **Implement study session scheduling:** Allow users to set up, accept, and manage study session invites.
-- **Enhance UI/UX design:** Polish the app’s design for improved usability and aesthetic appeal.
+- **Make a messaging system:** Add a way for users to chat with their study partners.  
+- **Create a schedule feature:** Let users plan study sessions and send invites.  
+- **Improve the design:** Make the app look nicer and easier to use.
 
 ### **Tasks:**
-1. Set up Firebase Realtime Database or Firestore for messaging functionality.
-2. Design and implement a scheduling screen with options for time slots and reminders.
-3. Conduct usability testing for both messaging and scheduling workflows.
-4. Refine UI with animations or transitions for smoother navigation.
+1. Set up Firebase for real-time messaging.  
+2. Create a screen for scheduling study sessions with time slots.  
+3. Add small design changes like colors and fonts to make the app look better.  
+4. Test the messaging and scheduling features.  
 
 ### **Extra Resources:**
-- [Firebase Realtime Database Guide](https://firebase.google.com/docs/database)
-- [UIKit Animation Tips](https://developer.apple.com/documentation/uikit/animation_and_haptics)
+- [Firebase Realtime Database](https://firebase.google.com/docs/database)  
+- [Basic App Design Tips](https://uxdesign.cc/basic-ui-ux-tips-for-beginners-3b17741c4a6f)  
 
 ---
 
-## **March 7 – March 27: Testing and Feedback**
+## **March 7 – March 27: Test and Get Feedback**
 
 ### **Goal:**
-- **Conduct extensive testing:** Test all app features (matching, messaging, scheduling) for functionality and usability.
-- **Gather user feedback:** Share the app with peers and collect suggestions for improvement.
-- **Optimize performance:** Identify and fix bottlenecks in database queries, UI rendering, or algorithms.
+- **Test all features:** Make sure the app works well and doesn’t have big bugs.  
+- **Share the app:** Ask friends to try it and give feedback.  
+- **Fix problems:** Use feedback to make improvements.  
 
 ### **Tasks:**
-1. Write and execute test cases for all major app features.
-2. Deploy the app to TestFlight and invite peers to test it.
-3. Optimize Firestore queries and refine the matching algorithm for speed.
-4. Address user feedback and implement high-priority fixes.
+1. Test every part of the app (matching, messaging, scheduling) to find issues.  
+2. Share the app with a small group of friends for feedback.  
+3. Fix any bugs or things that don’t work as expected.  
+4. Improve the app based on suggestions from testers.  
 
 ### **Extra Resources:**
-- [TestFlight Guide](https://developer.apple.com/testflight/)
-- [Firebase Performance Monitoring](https://firebase.google.com/docs/perf-mon)
+- [TestFlight Guide](https://developer.apple.com/testflight/)  
+- [Beginner Debugging Tips](https://www.freecodecamp.org/news/how-to-debug-your-code/)  
 
 ---
 
-## **March 28 – April 17: Final Improvements and Demo Prep**
+## **March 28 – April 17: Polish and Demo**
 
 ### **Goal:**
-- **Polish the app for presentation:** Refine all features and fix any remaining bugs.
-- **Prepare a demo:** Create a compelling presentation showcasing Study Buddy’s functionality and value proposition.
-- **Plan for future development:** Document areas of improvement and additional features to add post-project.
+- **Make the app presentable:** Fix any small bugs and finalize the design.  
+- **Plan for the future:** Write down ideas for new features and improvements to work on later.  
 
 ### **Tasks:**
-1. Conduct a final round of debugging and polish UI elements.
-2. Create a demo script and record a video walkthrough of the app.
-3. Write detailed documentation for the project, including a roadmap for future enhancements.
-4. Present the app to peers, instructors, or stakeholders and gather final feedback.
+1. Fix any remaining bugs and make small design updates.  
+2. Record a video demo or prepare slides to explain how the app works.  
+3. Write a simple roadmap for features to add later.  
+4. Present the app to my classmates or instructor.  
 
 ### **Extra Resources:**
-- [How to Create a Demo Video](https://www.techsmith.com/blog/how-to-make-a-demo-video/)
-- [Firebase Bug Fixes Guide](https://firebase.google.com/support/guides)
+- [How to Record a Demo Video](https://www.techsmith.com/blog/how-to-make-a-demo-video/)  
+- [Beginner Roadmap Example](https://medium.com/swlh/roadmaps-for-dummies-728303e1f8f1)  
 
 ---
 
-By following this plan, I aim to build a meaningful prototype of Study Buddy and gain hands-on experience in iOS development and app design.
+This plan is designed to help me learn at a steady pace while building something meaningful. I’ll focus on improving my skills and getting comfortable with Swift and app development along the way.
