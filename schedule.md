@@ -72,7 +72,7 @@ This action plan outlines how I will make progress on the Study Buddy app over t
 
 ### **Extra Resources:**
 - [Firebase Realtime Database](https://firebase.google.com/docs/database)  
-- [Basic App Design Tips](https://uxdesign.cc/basic-ui-ux-tips-for-beginners-3b17741c4a6f)  
+- [Basic App Design Tips](https://www.youtube.com/watch?v=PCvopT3Wnek)  
 
 ---
 
